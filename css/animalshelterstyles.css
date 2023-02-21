@@ -8,3 +8,9 @@
  img {
     width: 400px;
 }
+.cat {
+    border: 2px double red
+}
+.cat li {
+    background-color: blueviolet;
+}
